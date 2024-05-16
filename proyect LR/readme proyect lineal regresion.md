@@ -1,4 +1,3 @@
-![alt text](image-1.png)
 # Análisis de Estadísticas de Profesionales de Counter Strike
 
 Este proyecto tiene como objetivo analizar las estadísticas de los profesionales de Counter Strike y desarrollar un modelo de regresión lineal para predecir las kills totales de los jugadores basándonos en diversas variables.
